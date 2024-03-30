@@ -1,2 +1,2 @@
 # codesoft03
-this is my personal protofolio.
+This is my personal protofolio.
